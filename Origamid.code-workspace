@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../cinema"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "web"
+  }
+}
